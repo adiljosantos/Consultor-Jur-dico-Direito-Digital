@@ -1,0 +1,5 @@
+{
+  "name": "Consultor Jurídico Digital",
+  "description": "Um aplicativo de chat para responder perguntas sobre leis federais brasileiras e direito digital, utilizando a API Gemini com busca na web para informações atualizadas.",
+  "requestFramePermissions": []
+}
